@@ -33,7 +33,7 @@ To view my portfolio,
 
 ## Contact
 
-Feel free to reach out to me via email at vaibhavjumde97@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samson-adesanya-43a1b3233/).
+Feel free to reach out to me via email at thejoshington1@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samson-adesanya-43a1b3233/).
 
 ---
 
