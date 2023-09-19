@@ -1,29 +1,29 @@
-## My-Portfolio-Website
+# portfolio-website
 
 
-Greetings and welcome to my personal portfolio repository! This space serves as a showcase highlighting my talents, projects, and journey as a frontend developer. The portfolio is constructed using a template as a foundation, which I've then tailored to perfectly encapsulate my unique personal brand.
+Welcome to my personal portfolio repository! This is a showcase of my skills, projects, and experiences as a frontend developer. The portfolio is built using a template as a starting point and has been customized to reflect my personal brand.
 
 ## Overview
 
-Within this portfolio website, you'll find a comprehensive introduction to my background, skills, projects, and how to get in touch with me. The various sections include:
+This portfolio website provides an overview of my background, skills, projects, and contact information. It includes sections such as:
 
--Educational Background: Comprehensive insights into my academic journey, encompassing my degrees and the institutions I've attended.
--Technology Stack: An inventory of the various technologies and tools in which I've honed my expertise.
--Project Highlights: Showcasing some of my standout projects, complete with live links for interactive exploration and access to their source code.
--Contact Information: Details on how to initiate contact with me directly.
+- Education: Details of my educational background, including my degrees and institutions.
+- Tech Stack: List of technologies and tools I'm proficient in.
+- Projects: Showcasing some of my notable projects with live links and source code.
+- Contact: How to get in touch with me.
 
 
-## Key Features
+## Features
 
--Aesthetic and Contemporary Design Philosophy
--Responsiveness Tailored to Various Devices and Screen Resolutions
--Interactive Segments Facilitating Smooth Scroll Navigation
--Projects Presented with Live Links and Access to Source Code
+- Clean and modern design.
+- Responsive layout for various devices and screen sizes.
+- Interactive sections and smooth scrolling.
+- Showcase of projects with live links and source code.
 
 
 ## Getting Started
 
-To view my portfolio, 
+To view my portfolio, simply visit [My Portfolio Website](https://vaibhav209.github.io/portfolio-website/)
 
 
 ## Credits
@@ -33,8 +33,8 @@ To view my portfolio,
 
 ## Contact
 
-Feel free to reach out to me via email at thejoshington1@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samson-adesanya-43a1b3233/).
+Feel free to reach out to me via email at vaibhavjumde97@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vaibhav-jumde-51004b170/).
 
 ---
 
-Thank you for visiting my portfolio repository...
+Thank you for visiting my portfolio repository!
